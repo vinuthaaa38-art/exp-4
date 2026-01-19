@@ -1,1 +1,2 @@
-# exp-4
+#include<stdio.h>
+print("hello world);
